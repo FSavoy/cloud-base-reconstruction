@@ -17,7 +17,7 @@ The figure below illustrates the algorithm. Both top images are the input images
 Code
 ----
 
-The code is available on github at https://github.com/FSavoy/cloud-reconstruction. It consists of three classes encapsulating functions regarding sky imagers, segmentation and the reconstruction itself. A sample file which generates the figure shown above is provided too.
+The code is available on github at https://github.com/FSavoy/cloud-base-reconstruction. It consists of three classes encapsulating functions regarding sky imagers, segmentation and the reconstruction itself. A sample file which generates the figure shown above is provided too.
 
 The documentation is organized as follows:
 
