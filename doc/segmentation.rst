@@ -1,0 +1,5 @@
+Segmentation
+============
+
+.. automodule:: segmentation
+	:members:

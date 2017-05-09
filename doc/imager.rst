@@ -1,0 +1,5 @@
+Imager
+======
+
+.. automodule:: imager
+	:members:
